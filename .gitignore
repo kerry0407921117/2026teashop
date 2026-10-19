@@ -1,0 +1,6 @@
+spec/
+node_modules/
+.env*
+.clasprc.json
+.browser-qa*/
+.qa/
